@@ -56,7 +56,7 @@ The Power BI dashboard includes:
 - **Scatter Plot** — Subscription Duration vs Cost by Churn Status
 - **Slicer** — Filter by Cohort Month
 
-> 📸 *Add a screenshot of your dashboard here*
+
 
 ---
 

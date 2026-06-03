@@ -23,6 +23,7 @@ This project analyzes **3,069 subscription customer records** to answer key busi
 | Python (Pandas, Matplotlib) | Data cleaning & EDA |
 | Jupyter Notebook | Analysis environment |
 | Power BI Desktop | Dashboard & visualization |
+| Claude (Anthropic) | Analysis guidance & documentation |
 
 ---
 

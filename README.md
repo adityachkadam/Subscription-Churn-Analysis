@@ -80,7 +80,3 @@ The Power BI dashboard includes:
 6. Update the data source path to point to your local `cleaned_subscriptions.csv`
 
 ---
-
-## 📬 Contact
-
-Feel free to connect or reach out if you have any feedback on this project!
